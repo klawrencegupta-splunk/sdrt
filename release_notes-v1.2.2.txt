@@ -1,0 +1,16 @@
+*all*
+ - implemented the same inputs/dropdown code across all dashboardds
+ - added an ALL option to Customer & Role inputs
+
+Indexer Capacity Estimates (experimental)
+ - cleaned up index assignment & default Function to max
+Infrastructure Overview
+ - fixed mount_point drop down search
+ - added a Total vCPU Count
+
+Infrastructure Detailed Review
+ - fixed mount_point drop down search
+
+Splunk Application Errors
+ - fixed wrong sourcetype in queue blocks panel
+
