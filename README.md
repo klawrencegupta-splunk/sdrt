@@ -1,5 +1,5 @@
 <html>
-    <h2>ReadMe - Splunk Diag Reporting Tool  1.2</h2>
+    <h2>ReadMe - Splunk Diag Reporting Tool  1.2.2</h2>
     <h3>Disclaimer:</h3>
     <p><u>This app is provided as part of a POC between Splunk our customers and
         is not an officially supported Splunk app</u>. All requests for support
